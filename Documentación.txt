@@ -1,0 +1,37 @@
+Bloques gráficos UDG
+
+ABCD	Muro - Código de mapeado 1
+
+EFGH	Bloque empujable - Código de mapeado 2
+
+IJKL	Meta - Cógigo de mapeado 3
+
+MNOP	Prota
+
+QRS		Libres
+
+
+CODIFICACIÖN DE NIVELES
+
+Toda la pantalla desde posición 0,0 (176 Bytes)
+Tiles 2x2
+16 columnas x 11 líneas
+0 no hay nada
+1 sólido
+2 empujable
+3 meta
+
+El codificado del mapeado se cierra con dos bytes que indican las coordenadas iniciales x e y del prota
+
+9001 DATA 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+9002 DATA 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+9003 DATA 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+9004 DATA 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+9005 DATA 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+9006 DATA 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+9007 DATA 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+9008 DATA 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+9009 DATA 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+9010 DATA 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+9011 DATA 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+9012 DATA X,Y: REM COORDENADAS DEL PROTA

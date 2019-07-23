@@ -1,0 +1,19 @@
+Como se hizo
+
+Programa mac visto hace poco restaurando el macintosh. Dead End, idea de programar en ASM pero al ver el concurso de BASIC hago algo sencillo para el mismo sin muchas aspiraciones.
+
+Decido meter unos diez niveles sencillitos del original, si da el tamaño.
+
+Descarto usar marco de adorno alrededor de la pantalla, ya que se comería la posibilidad de meter un tile de ancho y otro de alto.
+
+Descarto usar undos por el momento.
+
+Primero programo el mapeador. Simple, sin tener en cuenta el tamaño del nivel. Codificando la pantalla entera 16x11 tiles. Decido que hay 3 bloques diferentes: sólido, empujable y meta. Decido no meter los empujables que no se mueven en única dirección.
+
+Descarto usar matrices. Guardo los datos codificados del nivel y, cada vez que necesito volcar a pantalla el nivel, los guardo en un buffer de memoria. Es rápido y se hace a la par que se dibuja.
+
+Creo el primer nivel, igual al primer nivel del juego original, para ir probando sobre él el comportamiento del prota.
+
+Lo segundo en programar es el movimiento del personaje. Lo que da el bucle principal del programa.
+
+Creo un segundo nivel de pruebas donde ir cambiando situaciones para probar todas las casuísticas del movimiento
