@@ -4,12 +4,13 @@ ABCD	Muro - Código de mapeado 1
 
 EFGH	Bloque empujable - Código de mapeado 2
 
-
 IJKL	Prota
 
 Gráficos del spectrum Meta - Cógigo de mapeado 3
 
-MNOP	LIBRES
+M GRÁFICO DEL RÓTULO DE DEAD END_
+
+NOP	LIBRES
 
 QRS		Libres
 

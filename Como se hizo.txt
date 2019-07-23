@@ -20,4 +20,7 @@ Creo un segundo nivel de pruebas donde ir cambiando situaciones para probar toda
 
 Una vez hecho el bucle principal, meto algo de sonido al movimiento, y empiezo a diseñar el interface.
 
-Selecciono los niveles que voy a incluir en el juego, 10 en total, limitado por el tamaño de la pantalla del Spectrum, y los codifico en el programa.
+Selecciono los niveles que voy a incluir en el juego, 10 en total, limitado por el tamaño de la pantalla del Spectrum, y los codifico en el programa. Algunos los tengo que modificar ya que no se podían terminar, o eso parecía.
+
+Lo siguiente es hacer el menú y la pantalla de info.
+
