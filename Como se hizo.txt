@@ -17,3 +17,7 @@ Creo el primer nivel, igual al primer nivel del juego original, para ir probando
 Lo segundo en programar es el movimiento del personaje. Lo que da el bucle principal del programa.
 
 Creo un segundo nivel de pruebas donde ir cambiando situaciones para probar todas las casuísticas del movimiento
+
+Una vez hecho el bucle principal, meto algo de sonido al movimiento, y empiezo a diseñar el interface.
+
+Selecciono los niveles que voy a incluir en el juego, 10 en total, limitado por el tamaño de la pantalla del Spectrum, y los codifico en el programa.
