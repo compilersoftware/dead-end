@@ -24,3 +24,10 @@ Selecciono los niveles que voy a incluir en el juego, 10 en total, limitado por 
 
 Lo siguiente es hacer el menú y la pantalla de info.
 
+Hago la pantalla de cambio de nivel. Si se llega al diez, empieza por el uno
+
+Javi me hace gráficos. Los meto
+
+Salvo fallos, ya está terminado.
+
+Tiempo total unas 10 horas.

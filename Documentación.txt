@@ -6,13 +6,11 @@ EFGH	Bloque empujable - Código de mapeado 2
 
 IJKL	Prota
 
-Gráficos del spectrum Meta - Cógigo de mapeado 3
+NOPQ Gráficos del spectrum Meta - Cógigo de mapeado 3
 
 M GRÁFICO DEL RÓTULO DE DEAD END_
 
-NOP	LIBRES
-
-QRS		Libres
+RS	Libres
 
 
 CODIFICACIÖN DE NIVELES
