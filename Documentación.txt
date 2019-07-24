@@ -10,7 +10,9 @@ NOPQ Gráficos del spectrum Meta - Cógigo de mapeado 3
 
 M GRÁFICO DEL RÓTULO DE DEAD END_
 
-RS	Libres
+R GRÁFICO DEL MARCO DE LA VENTANA FIN DE NIVEL
+
+S	Libres
 
 
 CODIFICACIÖN DE NIVELES
